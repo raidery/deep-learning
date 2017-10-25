@@ -609,3 +609,6 @@ You should find the papers and software with star flag are more important or pop
 - [TriviaQA: A Large Scale Dataset for Reading Comprehension and Question Answering](http://nlp.cs.washington.edu/triviaqa/)
 - [Wolfram Data Repository](https://datarepository.wolframcloud.com/)
 - [Yelp Open Dataset](https://www.yelp.com/dataset)
+
+https://github.com/endymecy/awesome-deeplearning-resources
+
