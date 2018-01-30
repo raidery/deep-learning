@@ -9,3 +9,9 @@ http://mooc.study.163.com/learn/deeplearning_ai-2001281002
 https://github.com/sagarnildass/andrew_ng_deep_learning
 
 https://zhuanlan.zhihu.com/Redstone
+
+---------
+
+https://github.com/bighuang624/Andrew-Ng-Deep-Learning-notes
+
+http://binweber.top/tags/ML/
