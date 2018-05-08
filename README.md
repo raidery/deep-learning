@@ -17,3 +17,4 @@ https://github.com/experiencor/keras-yolo2/blob/master/Yolo%20Step-by-Step.ipynb
 
 https://github.com/llSourcell/Learn_Computer_Science_in_5_Months
 
+https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/
